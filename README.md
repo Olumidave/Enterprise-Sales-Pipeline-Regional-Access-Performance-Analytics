@@ -1,8 +1,8 @@
 #🔐 Enterprise Sales Pipeline | Regional Access & Performance Analytics
-> **A production-ready Power BI dashboard built with Dynamic Row-Level Security (RLS) — one report, four regions, fully controlled access. Each manager sees only their data. Leadership sees everything.**
+> **A production-ready Power BI dashboard built with Dynamic Row-Level Security (RLS) one report, four regions, fully controlled access. Each manager sees only their data. Leadership sees everything.**
 ---
 Problem Statement
-A company with four regional sales managers had a critical data governance gap — every manager could see every region's performance data inside the same Power BI report.
+A company with four regional sales managers had a critical data governance gap  every manager could see every region's performance data inside the same Power BI report.
 This meant:
 Regional managers seeing competitors' (internal) numbers
 Sensitive financial data exposed across the entire team
