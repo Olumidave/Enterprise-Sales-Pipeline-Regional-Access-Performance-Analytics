@@ -30,10 +30,10 @@ coo@company.com	All regions
 ---
 Dashboard Preview
 Overview — Full Access (Leadership View)
-![Overview](Sales%20Pipeline%20Overview.png)
+![Leadership Dashboard](./Overview%20full%20access%20leadership%20view.png)
 ---
 Regional View — East Manager (RLS Applied)
-![RLS Regional View](RLS_Regional_View.png)
+![Regional Manager View](./Regional%20view%20East%20manager%20RLS%20Applied.png)
 ---
 📁 Dataset Structure
 The dataset is built as a star schema with the following tables:
